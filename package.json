@@ -4,7 +4,7 @@
   "devDependencies": {
     "@swc/cli": "^0.8.1",
     "@swc/core": "^1.15.47",
-    "core-js": "^3.49.0",
+    "core-js": "^3.50.0",
     "regenerator-runtime": "^0.14.1",
     "rolldown": "^1.2.2"
   }
